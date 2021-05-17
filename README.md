@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikmiksai and currently working as a Web Designer based in Makati City, PH.
+- 👋 Hi, I’m Michelle Anne Sayson and currently working as a Web Designer based in Makati City, PH.
 - 🌱 I’m currently learning React.js and Framer motion for animations. 
 
 
