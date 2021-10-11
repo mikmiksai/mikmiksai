@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Michelle Anne Sayson and currently working as a Web Designer based in Makati City, PH.
-- 🌱 I’m currently learning React.js and Framer motion for animations. 
+- 👋 Hi, I’m Michelle Anne Sayson and currently working as a Frontend Developer.
+- 🌱 I’m currently working with React, Typescript and Gatsby for our projects.
+- 👀 I'm interested in Next.js and Vue.js but will do it in the future.
 
 
 
